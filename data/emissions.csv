@@ -1,0 +1,97 @@
+date,scope,category,co2e_tonnes,source,emission_factor,ef_unit
+2023-01-01,Scope 1,Fleet vehicles,5.42,Diesel consumption (litres),2.6849,kgCO2e/litre
+2023-01-01,Scope 2,Electricity,13.6,Smart meter (office),0.20493,kgCO2e/kWh
+2023-01-01,Scope 3,Business travel,15.02,Flight logs,0.1952,kgCO2e/passenger-km
+2023-01-01,Scope 3,Supply chain,7.75,Supplier spend data,0.342,kgCO2e/GBP-spend
+2023-02-01,Scope 1,Fleet vehicles,5.57,Diesel consumption (litres),2.6849,kgCO2e/litre
+2023-02-01,Scope 2,Electricity,14.69,Smart meter (office),0.20493,kgCO2e/kWh
+2023-02-01,Scope 3,Business travel,19.09,Flight logs,0.1952,kgCO2e/passenger-km
+2023-02-01,Scope 3,Supply chain,7.48,Supplier spend data,0.342,kgCO2e/GBP-spend
+2023-03-01,Scope 1,Fleet vehicles,5.08,Diesel consumption (litres),2.6849,kgCO2e/litre
+2023-03-01,Scope 2,Electricity,12.12,Smart meter (office),0.20493,kgCO2e/kWh
+2023-03-01,Scope 3,Business travel,14.64,Flight logs,0.1952,kgCO2e/passenger-km
+2023-03-01,Scope 3,Supply chain,8.31,Supplier spend data,0.342,kgCO2e/GBP-spend
+2023-04-01,Scope 1,Fleet vehicles,4.46,Diesel consumption (litres),2.6849,kgCO2e/litre
+2023-04-01,Scope 2,Electricity,10.95,Smart meter (office),0.20493,kgCO2e/kWh
+2023-04-01,Scope 3,Business travel,17.49,Flight logs,0.1952,kgCO2e/passenger-km
+2023-04-01,Scope 3,Supply chain,8.39,Supplier spend data,0.342,kgCO2e/GBP-spend
+2023-05-01,Scope 1,Fleet vehicles,4.76,Diesel consumption (litres),2.6849,kgCO2e/litre
+2023-05-01,Scope 2,Electricity,10.03,Smart meter (office),0.20493,kgCO2e/kWh
+2023-05-01,Scope 3,Business travel,18.54,Flight logs,0.1952,kgCO2e/passenger-km
+2023-05-01,Scope 3,Supply chain,7.32,Supplier spend data,0.342,kgCO2e/GBP-spend
+2023-06-01,Scope 1,Fleet vehicles,5.68,Diesel consumption (litres),2.6849,kgCO2e/litre
+2023-06-01,Scope 2,Electricity,8.99,Smart meter (office),0.20493,kgCO2e/kWh
+2023-06-01,Scope 3,Business travel,17.76,Flight logs,0.1952,kgCO2e/passenger-km
+2023-06-01,Scope 3,Supply chain,7.61,Supplier spend data,0.342,kgCO2e/GBP-spend
+2023-07-01,Scope 1,Fleet vehicles,5.91,Diesel consumption (litres),2.6849,kgCO2e/litre
+2023-07-01,Scope 2,Electricity,8.06,Smart meter (office),0.20493,kgCO2e/kWh
+2023-07-01,Scope 3,Business travel,15.88,Flight logs,0.1952,kgCO2e/passenger-km
+2023-07-01,Scope 3,Supply chain,7.5,Supplier spend data,0.342,kgCO2e/GBP-spend
+2023-08-01,Scope 1,Fleet vehicles,5.74,Diesel consumption (litres),2.6849,kgCO2e/litre
+2023-08-01,Scope 2,Electricity,8.86,Smart meter (office),0.20493,kgCO2e/kWh
+2023-08-01,Scope 3,Business travel,21.31,Flight logs,0.1952,kgCO2e/passenger-km
+2023-08-01,Scope 3,Supply chain,8.76,Supplier spend data,0.342,kgCO2e/GBP-spend
+2023-09-01,Scope 1,Fleet vehicles,5.26,Diesel consumption (litres),2.6849,kgCO2e/litre
+2023-09-01,Scope 2,Electricity,10.64,Smart meter (office),0.20493,kgCO2e/kWh
+2023-09-01,Scope 3,Business travel,18.05,Flight logs,0.1952,kgCO2e/passenger-km
+2023-09-01,Scope 3,Supply chain,8.4,Supplier spend data,0.342,kgCO2e/GBP-spend
+2023-10-01,Scope 1,Fleet vehicles,5.71,Diesel consumption (litres),2.6849,kgCO2e/litre
+2023-10-01,Scope 2,Electricity,11.72,Smart meter (office),0.20493,kgCO2e/kWh
+2023-10-01,Scope 3,Business travel,18.89,Flight logs,0.1952,kgCO2e/passenger-km
+2023-10-01,Scope 3,Supply chain,9.47,Supplier spend data,0.342,kgCO2e/GBP-spend
+2023-11-01,Scope 1,Fleet vehicles,5.52,Diesel consumption (litres),2.6849,kgCO2e/litre
+2023-11-01,Scope 2,Electricity,12.16,Smart meter (office),0.20493,kgCO2e/kWh
+2023-11-01,Scope 3,Business travel,14.7,Flight logs,0.1952,kgCO2e/passenger-km
+2023-11-01,Scope 3,Supply chain,8.83,Supplier spend data,0.342,kgCO2e/GBP-spend
+2023-12-01,Scope 1,Fleet vehicles,4.54,Diesel consumption (litres),2.6849,kgCO2e/litre
+2023-12-01,Scope 2,Electricity,13.68,Smart meter (office),0.20493,kgCO2e/kWh
+2023-12-01,Scope 3,Business travel,13.87,Flight logs,0.1952,kgCO2e/passenger-km
+2023-12-01,Scope 3,Supply chain,8.8,Supplier spend data,0.342,kgCO2e/GBP-spend
+2024-01-01,Scope 1,Fleet vehicles,4.98,Diesel consumption (litres),2.6849,kgCO2e/litre
+2024-01-01,Scope 2,Electricity,13.25,Smart meter (office),0.20493,kgCO2e/kWh
+2024-01-01,Scope 3,Business travel,14.39,Flight logs,0.1952,kgCO2e/passenger-km
+2024-01-01,Scope 3,Supply chain,7.1,Supplier spend data,0.342,kgCO2e/GBP-spend
+2024-02-01,Scope 1,Fleet vehicles,4.45,Diesel consumption (litres),2.6849,kgCO2e/litre
+2024-02-01,Scope 2,Electricity,14.06,Smart meter (office),0.20493,kgCO2e/kWh
+2024-02-01,Scope 3,Business travel,16.08,Flight logs,0.1952,kgCO2e/passenger-km
+2024-02-01,Scope 3,Supply chain,7.84,Supplier spend data,0.342,kgCO2e/GBP-spend
+2024-03-01,Scope 1,Fleet vehicles,4.31,Diesel consumption (litres),2.6849,kgCO2e/litre
+2024-03-01,Scope 2,Electricity,12.5,Smart meter (office),0.20493,kgCO2e/kWh
+2024-03-01,Scope 3,Business travel,13.14,Flight logs,0.1952,kgCO2e/passenger-km
+2024-03-01,Scope 3,Supply chain,7.42,Supplier spend data,0.342,kgCO2e/GBP-spend
+2024-04-01,Scope 1,Fleet vehicles,5.49,Diesel consumption (litres),2.6849,kgCO2e/litre
+2024-04-01,Scope 2,Electricity,10.82,Smart meter (office),0.20493,kgCO2e/kWh
+2024-04-01,Scope 3,Business travel,15.53,Flight logs,0.1952,kgCO2e/passenger-km
+2024-04-01,Scope 3,Supply chain,7.97,Supplier spend data,0.342,kgCO2e/GBP-spend
+2024-05-01,Scope 1,Fleet vehicles,5.28,Diesel consumption (litres),2.6849,kgCO2e/litre
+2024-05-01,Scope 2,Electricity,9.5,Smart meter (office),0.20493,kgCO2e/kWh
+2024-05-01,Scope 3,Business travel,13.53,Flight logs,0.1952,kgCO2e/passenger-km
+2024-05-01,Scope 3,Supply chain,6.78,Supplier spend data,0.342,kgCO2e/GBP-spend
+2024-06-01,Scope 1,Fleet vehicles,4.52,Diesel consumption (litres),2.6849,kgCO2e/litre
+2024-06-01,Scope 2,Electricity,7.72,Smart meter (office),0.20493,kgCO2e/kWh
+2024-06-01,Scope 3,Business travel,15.44,Flight logs,0.1952,kgCO2e/passenger-km
+2024-06-01,Scope 3,Supply chain,8.45,Supplier spend data,0.342,kgCO2e/GBP-spend
+2024-07-01,Scope 1,Fleet vehicles,5.32,Diesel consumption (litres),2.6849,kgCO2e/litre
+2024-07-01,Scope 2,Electricity,7.39,Smart meter (office),0.20493,kgCO2e/kWh
+2024-07-01,Scope 3,Business travel,18.54,Flight logs,0.1952,kgCO2e/passenger-km
+2024-07-01,Scope 3,Supply chain,7.44,Supplier spend data,0.342,kgCO2e/GBP-spend
+2024-08-01,Scope 1,Fleet vehicles,5.38,Diesel consumption (litres),2.6849,kgCO2e/litre
+2024-08-01,Scope 2,Electricity,7.96,Smart meter (office),0.20493,kgCO2e/kWh
+2024-08-01,Scope 3,Business travel,15.82,Flight logs,0.1952,kgCO2e/passenger-km
+2024-08-01,Scope 3,Supply chain,7.17,Supplier spend data,0.342,kgCO2e/GBP-spend
+2024-09-01,Scope 1,Fleet vehicles,4.87,Diesel consumption (litres),2.6849,kgCO2e/litre
+2024-09-01,Scope 2,Electricity,8.75,Smart meter (office),0.20493,kgCO2e/kWh
+2024-09-01,Scope 3,Business travel,18.05,Flight logs,0.1952,kgCO2e/passenger-km
+2024-09-01,Scope 3,Supply chain,8.37,Supplier spend data,0.342,kgCO2e/GBP-spend
+2024-10-01,Scope 1,Fleet vehicles,4.64,Diesel consumption (litres),2.6849,kgCO2e/litre
+2024-10-01,Scope 2,Electricity,10.1,Smart meter (office),0.20493,kgCO2e/kWh
+2024-10-01,Scope 3,Business travel,18.2,Flight logs,0.1952,kgCO2e/passenger-km
+2024-10-01,Scope 3,Supply chain,8.57,Supplier spend data,0.342,kgCO2e/GBP-spend
+2024-11-01,Scope 1,Fleet vehicles,4.2,Diesel consumption (litres),2.6849,kgCO2e/litre
+2024-11-01,Scope 2,Electricity,11.19,Smart meter (office),0.20493,kgCO2e/kWh
+2024-11-01,Scope 3,Business travel,12.81,Flight logs,0.1952,kgCO2e/passenger-km
+2024-11-01,Scope 3,Supply chain,8.81,Supplier spend data,0.342,kgCO2e/GBP-spend
+2024-12-01,Scope 1,Fleet vehicles,5.2,Diesel consumption (litres),2.6849,kgCO2e/litre
+2024-12-01,Scope 2,Electricity,12.98,Smart meter (office),0.20493,kgCO2e/kWh
+2024-12-01,Scope 3,Business travel,12.53,Flight logs,0.1952,kgCO2e/passenger-km
+2024-12-01,Scope 3,Supply chain,8.31,Supplier spend data,0.342,kgCO2e/GBP-spend

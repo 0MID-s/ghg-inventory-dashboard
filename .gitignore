@@ -1,0 +1,39 @@
+# Secrets — never commit
+.env
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# GSD planning — internal workflow docs, not for the repository
+.planning/
+
+# Claude Code local settings
+.claude/
+
+# Other portfolio projects — each belongs in its own repository
+project-1-physical-risk/
+project-2-stress-test/
+project-3-parametric/
+project-4-solutions/
+power-bi/
+utils/
+
+# Data files not used by this dashboard
+data/flood_zones_ea.csv
+data/portfolio_assets.csv
