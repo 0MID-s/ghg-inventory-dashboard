@@ -64,7 +64,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-The dashboard opens at `http://localhost:8501`. No API keys are required — all data is bundled in `data/`.
+No API keys are required — all data is bundled in `data/`.
 
 ---
 
