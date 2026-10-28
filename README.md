@@ -1,6 +1,6 @@
 # GHG Inventory Dashboard
 
-A Streamlit web application simulating a full Scope 1/2/3 greenhouse gas emissions inventory for a mid-size organisation, with an interactive KPI dashboard and smart meter energy analytics. Built to demonstrate end-to-end competency in GHG accounting methodology, data engineering, and visual reporting.
+A Streamlit web application simulating a full Scope 1/2/3 greenhouse gas emissions inventory for a mid-size organisation, with an interactive KPI dashboard and smart meter energy analytics. It covers the workflow end to end: GHG accounting methodology, data engineering, and visual reporting.
 
 ---
 
@@ -21,7 +21,7 @@ A Streamlit web application simulating a full Scope 1/2/3 greenhouse gas emissio
 
 ---
 
-## Skills Demonstrated
+## Methods & Tools
 
 | Area | Detail |
 |------|--------|
